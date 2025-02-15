@@ -1,0 +1,13 @@
+{
+    "name": "空白组件",
+    "description": "嫌你的cw不够占位置？空白组件来帮你！",
+    "version": "0.0.1",
+    "plugin_ver": 1,
+    "author": "Peach",
+    "settings": true,
+
+    "url": "https://github.com/Welsonpeaches/cw-student-on-duty-plugin",
+    "branch": "main",
+
+    "update_date": "2025/1/4"
+}
